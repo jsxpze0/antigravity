@@ -1,0 +1,6 @@
+*.db
+*.Rhistory
+*.RData
+*.DS_Store
+*.pdf
+mini_project/
